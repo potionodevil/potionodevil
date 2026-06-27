@@ -53,8 +53,9 @@ Mein Arbeitsalltag ist geprägt von:
 
 Hier findest du ein Beispiel für eine Statistik-Karte. Du kannst diese URL anpassen, um deine echten GitHub-Daten anzuzeigen:
 
-[![Rene's GitHub Stats](![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=potionodevil&theme=dark&show_icons=true&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api?username=potionodevil&theme=dark&show_icons=true&hide_border=true&count_private=true)))
-[![Rene's Top-Languages](![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=potionodevil&theme=dark&show_icons=true&hide_border=true&layout=compact))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=potionodevil&theme=dark&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=potionodevil&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
