@@ -1,4 +1,4 @@
-# Hallo! Ich bin Rene S. 👋
+# Hallo! Ich bin Rene 👋
 
 <p align="left">
   <img src="https://img.shields.io/badge/Founder-BlackForest.Digital-blue?style=flat-square" alt="BlackForest.Digital" />
